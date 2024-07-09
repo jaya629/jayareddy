@@ -1,6 +1,16 @@
-x = input("Type a number: ")
-y = input("Type another number: ")
+Public class login
+{
+   public static void main()
+   {
+       int i =0;
 
-sum = int(x) + int(y)
 
-print("The sum is: ", sum)
+       for (i=0;i<==60;i++
+
+       
+
+       {
+            System.out Println ("Number: "+i);
+       }
+   }
+}
